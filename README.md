@@ -1,4 +1,4 @@
-# Create a simple form in React with validation using `CUSTOM HOOK`.
+# Created a simple form in React with validation using `CUSTOM HOOK`.
 
 <div align="center">
   <h3>Form</h3>
